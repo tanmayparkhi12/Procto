@@ -10,11 +10,6 @@ To create an exam, just register and log in to your account, click on the Create
 **Database-** MongoDB Atlas, Mongoose
 **Deep Learning Model-** Tensorflow Implementation of CocoSSD Object Detection Model
 
-# Video Demo
-[![Video Link](https://i9.ytimg.com/vi/8b6_rfUunG4/mq2.jpg?sqp=CJiYjY0G&rs=AOn4CLB0Y_JLes_6GY3X1obVKle_GKbfww)](https://www.youtube.com/watch?v=8b6_rfUunG4&ab)
-
-# Hosted Application URL
-https://online-exam-proctoring.herokuapp.com/
 
 # About The Author
 Hello! I am Tanmay Parkhi, **Final Year BE IT student at Sinhgad Pune**. I am very passionate about software development and problem-solving. 
