@@ -17,15 +17,7 @@ To create an exam, just register and log in to your account, click on the Create
 https://online-exam-proctoring.herokuapp.com/
 
 # About The Author
-Hello! I am Rohit Tuli, **Final Year BTech CSE student at IIT Ropar**. I am very passionate about software development and problem-solving. Previously I have interned at **Flipkart** and **National University of Singapore**. Currently, I am working on a **year-long Research Project in collaboration with Microsoft India.** 
-I was also a **National Finalist (Top 3) in Flipkart Grid Challenge 2.0**, and **2nd Position in Global Cyber Challenge**, an international hackathon conducted by Government of India. 
-I love problem-solving and actively participate in many Competitive Programming Contests. I have also represented my college in ACM ICPC Regionals.
-
-# How to Use?
-
-## Note
-**The website is hosted on [This Link](https://online-exam-proctoring.herokuapp.com/).**
-**I recommend running on this URL instead of running on your machine**
+Hello! I am Tanmay Parkhi, **Final Year BE IT student at Sinhgad Pune**. I am very passionate about software development and problem-solving. 
 
 If you wish to run it on your machine, 
 1. Clone the Repository
