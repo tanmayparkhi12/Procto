@@ -12,12 +12,12 @@ To create an exam, just register and log in to your account, click on the Create
 
 
 # About The Author
-Hello! I am Tanmay Parkhi, **Final Year BE IT student at Sinhgad Pune**. I am very passionate about software development and problem-solving. 
+Hello! I am Tanmay Parkhi, **Final Year BE IT student at Sinhgad Institute Of Technology and Science, Pune**. I am very passionate about software development and problem-solving. 
 
 If you wish to run it on your machine, 
 1. Clone the Repository
-2. Move to the Microsoft-Engage-Project folder
-`cd Microsoft-Engage-Project`
+2. Move to the Procto folder
+`cd Procto`
 3. Run `npm install`
 4. Move to client directory and run npm install again. `cd client` and `npm install`
 5. Move back to parent directory `cd ..`
@@ -26,7 +26,7 @@ If you wish to run it on your machine,
 This concurrently runs server and frontend. Give a few seconds for frontend to load on localhost:3000
 ## As a Professor:
 
-1. Open https://online-exam-proctoring.herokuapp.com/ It might take some time to load for the first time, will be faster from the next time.
+1. Open home page. It might take some time to load for the first time, will be faster from the next time.
 2. Click on Register, CHECK are you an Instructor to create a professor account.
 3. Login to your account.
 3. Click on Create Exam Button. Fill out the form. In the Exam Link option you can enter any link like Google form, Microsoft Form etc on which you have created the quiz. It is advised to use Google Form.
@@ -34,7 +34,7 @@ This concurrently runs server and frontend. Give a few seconds for frontend to l
 5. Once the exam is live, you can enter the exam code in the homepage and click the Check Logs Button to see the status of the students giving the exam in real time. To refresh the table just click Check Logs again.
 
 ## As a Student
-1. Open https://online-exam-proctoring.herokuapp.com/ It might take some time to load for the first time, will be faster from the next time.
+1. Open home page It might take some time to load for the first time, will be faster from the next time.
 2. Click on Register, UNCHECK are you an Instructor to create a professor account.
 3. Login to your account.
 4. When the exam has started, enter the exam code provided by your professor and click the button to start the exam.
